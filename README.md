@@ -2,19 +2,14 @@
 Este exercício deve ser escrito em C.
 
 ### O Exercício
-Escreva um programa (LerDuasPalavras2.c) em C que:
-a)	Leia uma palavra com tamanho 3 (isto é, com 3 letras).
-b)	Escreva no terminal o texto “A primeira palavra é: “.
-c)	Escreva a seguir as 3 letras da primeira palavra. 
-d)	Leia uma palavra com tamanho 3 (isto é, com 3 letras).
-e)	Escreva no terminal o texto “A segunda palavra é: “.
-f)	Escreva a seguir as 3 letras da segunda palavra. 
+Escreva um programa (tabelaASCII.c) em C que:
+a)	Crie uma variável do tipo inteiro com o nome valorletra.
+b)	Iguale a variável valorletra ao valor 66
+c)	Através da função putc() escreva o caractere correspondente ao valor decimal da variável.
+
 
 ### Saída Esperada:
-ola ↵
-A primeira palavra é: ola
-ole ↵
-A segunda palavra é: ole
+B
 
 
 
